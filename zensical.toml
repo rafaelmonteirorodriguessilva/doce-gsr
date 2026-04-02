@@ -12,9 +12,9 @@
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
 site_name = "Doce GSR"
-site_url = "https://rafaelmonteirorodriguessilva.github.io/doce-gsr/"
+site_url = "https://rmonteirorodrigues.github.io/doce-gsr/"
 
-repo_url = "https://github.com/rafaelmonteirorodriguessilva/doce-gsr"
+repo_url = "https://github.com/rmonteirorodrigues/doce-gsr"
 edit_uri = "edit/main/docs/"
 
 # The site_description is included in the HTML head and should contain a
