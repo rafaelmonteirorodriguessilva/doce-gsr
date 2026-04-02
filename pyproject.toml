@@ -1,10 +1,9 @@
 [project]
 name = "doce-gsr"
 version = "0.1.0"
-description = "Add your description here"
+description = "Documentação para GSR"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "mkdocs>=1.6.1",
-    "mkdocs-material>=9.7.5",
+    "zensical>=0.0.31",
 ]
